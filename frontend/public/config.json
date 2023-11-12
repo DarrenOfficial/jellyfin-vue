@@ -1,4 +1,4 @@
 {
-  "defaultServerURLs": [],
+  "defaultServerURLs": ['tv.darrenofficial.com'],
   "routerMode": "hash"
 }
